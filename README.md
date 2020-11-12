@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://5fad155b1931fc951f1a349a--fervent-curie-cedfd8.netlify.app/">
+    <a href="https://5fad15e605781a00079c285b--fervent-curie-cedfd8.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Zeeshanahmadkhanlodhi/404_not_found">
       Solution
     </a>
     <span> | </span>
@@ -49,9 +49,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [css](https://www.w3schools.com/css/default.asp)
 
 ## Features
 
