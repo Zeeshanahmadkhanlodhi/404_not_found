@@ -1,0 +1,54 @@
+body{
+    margin:1rem auto;
+    min-height: 100vh;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.container{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+@media(max-width:800px){
+    .container{
+      grid-template-columns: 1fr;
+    }
+    .info{
+        
+        margin:0 0 0 1rem;
+    }
+   
+}
+header{
+    font-weight: bold;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+
+img{
+    max-width:90%;
+    height: auto;
+}
+.info{
+  align-self:center;
+}
+h1{
+    font-size: 5.5vw;
+}
+h4{
+    width: 350px;
+    text-align: justify;
+}
+button{
+    padding: 13px 30px;
+    font-weight: 400;
+    color: white;
+    background-color: black;
+    border: none;
+    text-transform: uppercase;
+}
+
+footer{
+    text-align: center;
+}
